@@ -74,12 +74,3 @@ A completely new readme document, the one you are currently reading which contai
 Fixed:
 Espeak is no longer in use, anyway it said only ee or something like that in the previous version. In 2023 when i tried make this script better i thought about using it to read the version, but finally i resign, because not everyone has it installed in the system;
 The text is separated into lines and there are breaks between the display of blocks to make it more readable. You can remove the lines which contain "sleep" if this annoys you.
-
-8. Contact:
-If you need to contact me, here's the list of awailable methods:
-WWW:
-https://sp.tdprograms.ovh
-Github:
-https://github.com/nightpurrer
-PLG for Linux repository:
-https://github.com/NightPurrer/PLSGeneratorLinux
